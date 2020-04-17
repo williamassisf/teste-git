@@ -1,0 +1,11 @@
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.deps.json
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.json
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.runtimeconfig.dev.json
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.dll
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\bin\Debug\netcoreapp2.1\Primeiro.pdb
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csprojAssemblyReference.cache
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfoInputs.cache
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.AssemblyInfo.cs
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.dll
+C:\TEMP\CursoC#\ws-vs2019\Primeiro\Primeiro\obj\Debug\netcoreapp2.1\Primeiro.pdb
